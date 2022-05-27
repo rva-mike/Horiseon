@@ -1,3 +1,4 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,14 +6,22 @@
     color: #ffffff;
 }
 
+/* body element  */
+
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
+    text-decoration: none;
 }
+
+
+/* header and nav  */
 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    text-decoration: none;
 }
 
 header h1 {
@@ -45,9 +54,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* hero section  */
 
 .hero {
     height: 800px;
@@ -58,6 +65,8 @@ p {
     background-position: center;
 }
 
+/* float properties */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,6 +76,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* content class sections */
 
 .content {
     width: 75%;
@@ -92,6 +103,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* benefits class aside sections  */
 
 .benefits {
     margin-right: 20px;
@@ -121,6 +134,7 @@ p {
     max-width: 150px;
 }
 
+/* footer  */
 
 footer {
     padding: 30px;
