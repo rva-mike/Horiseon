@@ -85,7 +85,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+aside section {
     margin-bottom: 32px;
 }
 
@@ -103,7 +103,7 @@ p {
 }
 
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,7 +121,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 
 footer {
