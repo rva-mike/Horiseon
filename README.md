@@ -7,3 +7,8 @@ Original application's Repository: https://github.com/coding-boot-camp/urban-oct
 My application's Repository: https://github.com/rva-mike/Horiseon
 
 My application's live URL: https://rva-mike.github.io/Horiseon/
+
+# Screenshot
+
+![Horiseon Screenshot](https://user-images.githubusercontent.com/105617274/171417287-03aca913-437e-461d-9bca-a72bb62c3cc3.png)
+
